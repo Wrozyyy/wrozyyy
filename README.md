@@ -18,5 +18,4 @@
 
 ### 📫 &nbsp; How to reach me:
 <a href="https://discord.com/users/534718023068811265"><img alt="Gmail" src="https://img.shields.io/badge/Discord-2f3236?style=flat&logo=discord&logoColor=blue" /></a> &nbsp;
-<a href="https://instagram.com/emir_yilm4z"><img src="https://img.shields.io/badge/@emir_yilm4z-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
